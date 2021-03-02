@@ -268,6 +268,12 @@ const themes = {
     icon_color: "ff1aff",
     text_color: "8080ff",
     bg_color: "141439",
+  },
+  "seoul":{
+    title_color: "941e34",
+    icon_color: "6789ca",
+    text_color: "455f54",
+    bg_color: "141439",
   }
 };
 
